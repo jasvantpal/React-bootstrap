@@ -1,2 +1,2 @@
 # React-bootstrap
-I have developed React sample page in bootstrap
+I developed this page React bootstrap
